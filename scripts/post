@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+import fileinput
+import re
+
+first_heading = False
+have_details = False
+p_index = 0
+section_name = None
+section_num = 1
+ul_level = 0
+
+for line in fileinput.input():
+    line = line.rstrip("\n")
+
+    if re.search("<h[1-6]", line):
+        section_name = re.match("<h[1-6][^>]*>([^<]*)", line).group(1).lower()
+        section_name = re.sub("_+", "_", re.sub("[^a-zA-Z0-9]", "_", section_name)).strip("_")
+        section_num = 1
+        if first_heading:
+            print("</div>")
+        if not first_heading:
+            print("<div class='panel-group' id='topics'>")
+            first_heading = True
+
+    if not first_heading:
+        print(line)
+        continue
+
+    if "<ul" in line:
+        ul_level += 1
+        if ul_level == 1:
+            line = re.sub("<ul", "<ul class='list-group'", line)
+    if "</ul" in line:
+        ul_level -= 1
+    if "<li" in line and ul_level == 1:
+        line = re.sub("<li", "<li class='list-group-item list-group-item-info' style='padding: 5px 15px'", line)
+        p_index, have_details = 0, False
+    if "</li" in line and ul_level == 1 and have_details:
+        print("</div>")
+        print("</div>")
+        print("<ul class='list-group'>")
+        have_details = False
+        continue
+    if ul_level == 1 and "<p>" in line:
+        p_index += 1
+        if p_index == 1:
+            line = line.replace("<p>", "")
+        elif p_index == 2:
+            print("<a href='#{}_{}' data-parent='#topics' data-toggle='collapse' class='label label-primary' style='font-size: 12px; vertical-align: middle'>Details</a>".format(section_name, section_num))
+            print("</li>")
+            print("</ul>")
+            print("<div class='panel-collapse collapse' id='{}_{}'>".format(section_name, section_num))
+            print("<div class='panel-body' style='padding-bottom: 5px'>")
+            have_details = True
+            section_num += 1
+    if ul_level == 1 and p_index == 1:
+        line = line.replace("</p>", "")
+
+    print(line)
+
+    if re.search("</h[1-6]", line):
+        print("<div class='panel panel-default'>")
+
+if first_heading:
+    print("</div>")
+    print("</div>")

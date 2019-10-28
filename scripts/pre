@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sed '
+  s/\[badge:\([^]]*\)](\([^)]*\))/<a class="label label-warning" style="font-size: 12px; vertical-align: middle" href="\2">\1<\/a>/g
+'
