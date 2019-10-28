@@ -8,7 +8,7 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
   please share with us what kind of language technologies do **you find
   interesting**.
 
-## Machine Translation [badge:NLPProgress](https://nlpprogress.com/english/machine_translation.html)
+### Machine Translation [badge:NLPProgress](https://nlpprogress.com/english/machine_translation.html)
 
 - Best Systems for Czech and Other Languages
   [badge:Translation](https://lindat.mff.cuni.cz/services/translation/)
@@ -22,7 +22,7 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
 - Multimodal Translation
   [badge:Multi30k](https://github.com/multi30k/dataset)
 
-## Dialogue Systems [badge:NLPProgress](https://nlpprogress.com/english/dialogue.html)
+### Dialogue Systems [badge:NLPProgress](https://nlpprogress.com/english/dialogue.html)
 
 - Natural Multi-domain Dialogue Systems
   [badge:NaMuDDiS](https://ufal.mff.cuni.cz/grants/namuddis)
@@ -33,7 +33,7 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
 
 - Text to Speech
 
-## Morphosyntactic Analysis
+### Morphosyntactic Analysis
 
 - Part of Speech Tagging, Lemmatization
   [badge:UDPipe](https://lindat.mff.cuni.cz/services/udpipe/)
@@ -52,7 +52,7 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
 
   Current Czech best results [on arXiv.org](https://arxiv.org/pdf/1909.03544).
 
-## Natural Language Understanding
+### Natural Language Understanding
 
 - Semantic Parsing
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
@@ -66,7 +66,7 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
   [badge:SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
   [badge:NLPProgress](https://nlpprogress.com/english/question_answering.html)
 
-## Named Entities
+### Named Entities
 
 - Named Entity Recognition
   [badge:NameTag](https://lindat.mff.cuni.cz/services/nametag/)
@@ -78,7 +78,7 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
 - Named Entity Linking
   [badge:NLPProgress](http://nlpprogress.com/english/entity_linking.html)
 
-## Grammar Error Correction
+### Grammar Error Correction
 
 - Automatic Spelling and Grammar Error Correction Systems
   [badge:Korektor](https://lindat.mff.cuni.cz/services/korektor/)
@@ -87,6 +87,6 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
 - Czech Grammar Error Correction Dataset
   [badge:AKCES-GEC](http://hdl.handle.net/11234/1-3057)
 
-## Summarization [badge:NLPProgress](https://nlpprogress.com/english/summarization.html)
+### Summarization [badge:NLPProgress](https://nlpprogress.com/english/summarization.html)
 
 - Czech Summarization Dataset SumeCzech [badge:SumeCzech](https://www.aclweb.org/anthology/L18-1551.pdf)
