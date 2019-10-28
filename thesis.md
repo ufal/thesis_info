@@ -52,6 +52,9 @@ to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></
 
   Current Czech best results [on arXiv.org](https://arxiv.org/pdf/1909.03544).
 
+- Derivational Morphology
+  [badge:DeriNet](https://ufal.mff.cuni.cz/derinet)
+
 ### Natural Language Understanding
 
 - Semantic Parsing
