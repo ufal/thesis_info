@@ -12,8 +12,8 @@ ul_level = 0
 for line in fileinput.input():
     line = line.rstrip("\n")
 
-    if re.search("<h[1-6]", line):
-        section_name = re.match("<h[1-6][^>]*>([^<]*)", line).group(1).lower()
+    if re.search("<h[2-6]", line):
+        section_name = re.match("<h[2-6][^>]*>([^<]*)", line).group(1).lower()
         section_name = re.sub("_+", "_", re.sub("[^a-zA-Z0-9]", "_", section_name)).strip("_")
         section_num = 1
         if first_heading:
@@ -58,7 +58,7 @@ for line in fileinput.input():
 
     print(line)
 
-    if re.search("</h[1-6]", line):
+    if re.search("</h[2-6]", line):
         print("<div class='panel panel-default'>")
 
 if first_heading:
