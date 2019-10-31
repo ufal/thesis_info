@@ -63,13 +63,20 @@ you are welcome to do so.
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
   [badge:NLPProgress](https://nlpprogress.com/english/semantic_parsing.html)
 
-- Coreference Resolution
+- Discourse Analysis
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
-  [badge:NLPProgress](http://nlpprogress.com/english/coreference_resolution.html)
+
+  Discourse analysis includes among others:
+  - Coreference Resolution [badge:NLPProgress](http://nlpprogress.com/english/coreference_resolution.html)
+  - Implicit Discourse Relations
 
 - Question Answering
   [badge:SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
   [badge:NLPProgress](https://nlpprogress.com/english/question_answering.html)
+
+- Summarization
+  [badge:SumeCzech](https://www.aclweb.org/anthology/L18-1551.pdf)
+  [badge:NLPProgress](https://nlpprogress.com/english/summarization.html)
 
 ### Named Entities
 
@@ -92,6 +99,3 @@ you are welcome to do so.
 - Czech Grammar Error Correction Dataset
   [badge:AKCES-GEC](http://hdl.handle.net/11234/1-3057)
 
-### Summarization [badge:NLPProgress](https://nlpprogress.com/english/summarization.html)
-
-- Czech Summarization Dataset SumeCzech [badge:SumeCzech](https://www.aclweb.org/anthology/L18-1551.pdf)
