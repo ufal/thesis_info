@@ -93,12 +93,11 @@ you are welcome to do so.
 - Relationship Extraction
   [badge:NLPProgress](https://nlpprogress.com/english/relationship_extraction.html)
 
-### Grammar Error Correction
+### Applications
 
-- Automatic Spelling and Grammar Error Correction Systems
+- Grammar Error Correction
   [badge:Korektor](https://lindat.mff.cuni.cz/services/korektor/)
+  [badge:AKCES-GEC](http://hdl.handle.net/11234/1-3057)
   [badge:NLPProgress](http://nlpprogress.com/english/grammatical_error_correction.html)
 
-- Czech Grammar Error Correction Dataset
-  [badge:AKCES-GEC](http://hdl.handle.net/11234/1-3057)
-
+- Optical Character Recognition
