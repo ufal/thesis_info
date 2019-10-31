@@ -90,6 +90,9 @@ you are welcome to do so.
 - Named Entity Linking
   [badge:NLPProgress](http://nlpprogress.com/english/entity_linking.html)
 
+- Relationship Extraction
+  [badge:NLPProgress](https://nlpprogress.com/english/relationship_extraction.html)
+
 ### Grammar Error Correction
 
 - Automatic Spelling and Grammar Error Correction Systems
