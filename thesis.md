@@ -1,6 +1,8 @@
 If you think about a thesis concerning **language technologies**, then the **best way**
 to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></span> thesis@ufal.mff.cuni.cz
-(feel free to write either in **Czech** or **English**).
+(feel free to write either in **Czech**, **Slovak** or **English**).
+Alternatively, if you prefer contacting **individual** prospective supervisors,
+you are welcome to do so.
 
 - If you have a topic or area of interest **of your own**, we will be very glad
   to hear about it!
