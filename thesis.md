@@ -1,4 +1,4 @@
-# Master and Bachelor Thesis at ÚFAL
+# Master or Bachelor Thesis at ÚFAL
 
 If you think about a thesis concerning **language technologies**, then the **best way**
 to proceed is to **contact us** at <span class="glyphicon glyphicon-envelope"></span> thesis@ufal.mff.cuni.cz
