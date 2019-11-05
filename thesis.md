@@ -65,11 +65,11 @@ you are welcome to do so.
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
   [badge:NLPProgress](https://nlpprogress.com/english/semantic_parsing.html)
 
-- Discourse Analysis
+- Discourse Analysis, Coreference Resolution
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
 
   Discourse analysis includes among others:
-  - Coreference Resolution [badge:NLPProgress](http://nlpprogress.com/english/coreference_resolution.html)
+  - Discourse Connectives [badge:NLPProgress](http://nlpprogress.com/english/coreference_resolution.html)
   - Implicit Discourse Relations
 
 - Question Answering
