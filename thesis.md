@@ -28,14 +28,28 @@ you are welcome to do so.
 
 ### Dialogue Systems [badge:NLPProgress](https://nlpprogress.com/english/dialogue.html)
 
-- Natural Multi-domain Dialogue Systems
+- Task-oriented Dialogue Systems
   [badge:NaMuDDiS](https://ufal.mff.cuni.cz/grants/namuddis)
+  
+  Interactive text-based or speech-based systems that help fulfill tasks (e.g. booking tickets, searching for bus connections, restaurant recommendation). Works on this can include:
+  - End-to-end neural systems (see e.g. [this shared task challenge](http://arxiv.org/abs/1807.11125) or [this dataset](https://www.aclweb.org/anthology/D18-1547))
+  - Dialogue system components: Language understanding, dialogue management
+  
+- Chatbots
+
+  Chatbots are interactive systems that can converse about any topic and keep the user entertained. Works on this topic include:
+  - Neural generative chatbot models
+  - [Information-retrieval-based models
 
 - Automatic Speech Recognition
   [badge:UWebASR](https://lindat.mff.cuni.cz/services/uwebasr/)
   [badge:NLPProgress](http://nlpprogress.com/english/automatic_speech_recognition.html)
 
 - Text to Speech
+
+- Language Generation
+
+  This can include response generation for dialogue systems as well as data-to-text generation (weather reports, [sports reports](https://aclweb.org/anthology/D17-1239) etc.) or [surface realization](http://taln.upf.edu/pages/msr2019-ws/SRST.html) (generating text from semantic/syntactic trees).
 
 ### Morphosyntactic Analysis
 
