@@ -117,3 +117,4 @@ you are welcome to do so.
   [badge:NLPProgress](http://nlpprogress.com/english/grammatical_error_correction.html)
 
 - Optical Character Recognition
+  [badge:NLPEditors](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=223095)
