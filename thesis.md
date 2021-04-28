@@ -121,3 +121,8 @@ you are welcome to do so.
   
   Detailed [description of the thesis in SIS](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=223095)
   
+### Digital Humanities
+
+- Czech Literary Bibliography
+  
+  Detailed [topics](https://ufal.mff.cuni.cz/bvh/temata-pro-studenty)
