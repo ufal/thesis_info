@@ -113,7 +113,7 @@ you are welcome to do so.
 - Relationship Extraction
   [badge:PapersWithCode](https://paperswithcode.com/task/relationship-extraction-distant-supervised)
 
-### Applications
+### NLP Applications
 
 - Grammar Error Correction
   [badge:Korektor](https://lindat.mff.cuni.cz/services/korektor/)
