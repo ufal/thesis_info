@@ -122,9 +122,8 @@ you are welcome to do so.
   [badge:PapersWithCode](https://paperswithcode.com/task/grammatical-error-correction)
 
 - Optical Character Recognition
-  [badge:NLPServices](https://lindat.mff.cuni.cz/en/services)
 
-  Detailed [description of the thesis in SIS](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=223095)
+  Detailed description of the thesis [Adaptive Handwritten Text Recognition](https://dspace.cuni.cz/handle/20.500.11956/147680)
 
 ### Music Processing
 
