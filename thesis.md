@@ -135,8 +135,7 @@ you are welcome to do so.
 
 - Other Topics
 
-  Many more music-related topics are possible. See what others are working on at
-  the [Prague Music Computing Group](https://ufal.mff.cuni.cz/pmcg) page.
+  Many more music-related topics are possible. See what others are working on at the [Prague Music Computing Group](https://ufal.mff.cuni.cz/pmcg) page.
 
 ### Digital Humanities
 
