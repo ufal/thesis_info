@@ -12,7 +12,7 @@ you are welcome to do so.
   please share with us what kind of language technologies do **you find
   interesting**.
 
-### Machine Translation [badge:NLPProgress](https://nlpprogress.com/english/machine_translation.html)
+### Machine Translation [badge:PapersWithCode](https://paperswithcode.com/task/machine-translation)
 
 - Best Systems for Czech and Other Languages
   [badge:Translation](https://lindat.mff.cuni.cz/services/translation/)
@@ -26,7 +26,7 @@ you are welcome to do so.
 - Multimodal Translation
   [badge:Multi30k](https://github.com/multi30k/dataset)
 
-### Dialogue Systems [badge:NLPProgress](https://nlpprogress.com/english/dialogue.html)
+### Dialogue Systems [badge:PapersWithCode](https://paperswithcode.com/area/natural-language-processing/dialogue)
 
 - Task-oriented Dialogue Systems
   [badge:NaMuDDiS](https://ufal.mff.cuni.cz/grants/namuddis)
@@ -43,7 +43,7 @@ you are welcome to do so.
 
 - Automatic Speech Recognition
   [badge:UWebASR](https://lindat.mff.cuni.cz/services/uwebasr/)
-  [badge:NLPProgress](http://nlpprogress.com/english/automatic_speech_recognition.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/automatic-speech-recognition)
 
 - Text to Speech
 
@@ -58,7 +58,7 @@ you are welcome to do so.
   [badge:MorphoDiTa](https://lindat.mff.cuni.cz/services/morphodita/)
   [badge:UD](https://universaldependencies.org/)
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
-  [badge:NLPProgress](https://nlpprogress.com/english/part-of-speech_tagging.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/part-of-speech-tagging)
 
   Current Czech best results [on arXiv.org](https://arxiv.org/pdf/1909.03544).
 
@@ -66,7 +66,7 @@ you are welcome to do so.
   [badge:UDPipe](https://lindat.mff.cuni.cz/services/udpipe/)
   [badge:UD](https://universaldependencies.org/)
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
-  [badge:NLPProgress](https://nlpprogress.com/english/dependency_parsing.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/dependency-parsing)
 
   Current Czech best results [on arXiv.org](https://arxiv.org/pdf/1909.03544).
 
@@ -75,46 +75,50 @@ you are welcome to do so.
 
 ### Natural Language Understanding
 
+- Coreference Resolution [badge:CorefUD](https://ufal.mff.cuni.cz/corefud)
+  [badge:CRACSharedTask](https://ufal.mff.cuni.cz/corefud/crac24)
+  [badge:PapersWithCode](https://paperswithcode.com/task/coreference-resolution)
+
 - Semantic Parsing
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
-  [badge:NLPProgress](https://nlpprogress.com/english/semantic_parsing.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/semantic-parsing)
 
-- Discourse Analysis, Coreference Resolution
+- Discourse Analysis
   [badge:PDT](https://ufal.mff.cuni.cz/prague-dependency-treebank)
 
   Discourse analysis includes among others:
-  - Discourse Connectives [badge:NLPProgress](http://nlpprogress.com/english/coreference_resolution.html)
+  - Discourse Connectives
   - Implicit Discourse Relations
 
 - Question Answering
   [badge:SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
-  [badge:NLPProgress](https://nlpprogress.com/english/question_answering.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/question-answering)
 
 - Summarization
   [badge:SumeCzech](https://www.aclweb.org/anthology/L18-1551.pdf)
-  [badge:NLPProgress](https://nlpprogress.com/english/summarization.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/text-summarization)
 
 ### Named Entities
 
 - Named Entity Recognition
   [badge:NameTag](https://lindat.mff.cuni.cz/services/nametag/)
   [badge:CNEC](https://ufal.mff.cuni.cz/cnec)
-  [badge:NLPProgress](http://nlpprogress.com/english/named_entity_recognition.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/named-entity-recognition-ner)
 
   Current Czech best results [on arXiv.org](https://arxiv.org/pdf/1909.03544).
 
 - Named Entity Linking
-  [badge:NLPProgress](http://nlpprogress.com/english/entity_linking.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/entity-linking)
 
 - Relationship Extraction
-  [badge:NLPProgress](https://nlpprogress.com/english/relationship_extraction.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/relationship-extraction-distant-supervised)
 
 ### Applications
 
 - Grammar Error Correction
   [badge:Korektor](https://lindat.mff.cuni.cz/services/korektor/)
   [badge:AKCES-GEC](http://hdl.handle.net/11234/1-3057)
-  [badge:NLPProgress](http://nlpprogress.com/english/grammatical_error_correction.html)
+  [badge:PapersWithCode](https://paperswithcode.com/task/grammatical-error-correction)
 
 - Optical Character Recognition
   [badge:NLPServices](https://lindat.mff.cuni.cz/en/services)
