@@ -125,6 +125,19 @@ you are welcome to do so.
 
   Detailed [description of the thesis in SIS](https://is.cuni.cz/studium/dipl_st/index.php?id=&tid=&do=main&doo=detail&did=223095)
 
+### Music Processing
+
+- Optical Music Recognition
+  [badge:OmniOMR](https://ufal.mff.cuni.cz/grants/omniomr)
+
+- Gregorian Chant Computing
+  [badge:DACT](https://ufal.mff.cuni.cz/grants/dact)
+
+- Other Topics
+
+  Many more music-related topics are possible. See what others are working on at
+  the [Prague Music Computing Group](https://ufal.mff.cuni.cz/pmcg) page.
+
 ### Digital Humanities
 
 - Czech Literary Bibliography
