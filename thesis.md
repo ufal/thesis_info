@@ -75,7 +75,8 @@ you are welcome to do so.
 
 ### Natural Language Understanding
 
-- Coreference Resolution [badge:CorefUD](https://ufal.mff.cuni.cz/corefud)
+- Coreference Resolution
+  [badge:CorefUD](https://ufal.mff.cuni.cz/corefud)
   [badge:CRACSharedTask](https://ufal.mff.cuni.cz/corefud/crac24)
   [badge:PapersWithCode](https://paperswithcode.com/task/coreference-resolution)
 
