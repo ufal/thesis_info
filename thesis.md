@@ -12,7 +12,7 @@ you are welcome to do so.
   please share with us what kind of language technologies do **you find
   interesting**.
 
-### Machine Translation [badge:PapersWithCode](https://paperswithcode.com/task/machine-translation)
+### Machine Translation
 
 - Best Systems for Czech and Other Languages
   [badge:Translation](https://lindat.mff.cuni.cz/services/translation/)
@@ -20,8 +20,13 @@ you are welcome to do so.
 - Offline Machine Translation
   [badge:Bergamot](https://browser.mt/)
 
-- Live Translation
+- Live Speech Translation
   [badge:ELITR](https://elitr.eu/)
+  [badge:Whisper-Streaming](https://github.com/ufal/whisper_streaming)
+
+  Topics include new, promising and challenging applications, such as live post-editing by humans or LLMs, cross-lingual dialogues, multilingual summarization, quality estimation, applications of LLMs, etc.
+
+  Prospective supervisors: [Dominik Macháček](https://ufal.mff.cuni.cz/dominik-machacek), [Ondřej Bojar](https://ufal.mff.cuni.cz/ondrej-bojar)
 
 - Multimodal Translation
   [badge:Multi30k](https://github.com/multi30k/dataset)
@@ -29,25 +34,45 @@ you are welcome to do so.
 ### Dialogue Systems [badge:PapersWithCode](https://paperswithcode.com/area/natural-language-processing/dialogue)
 
 - Task-oriented Dialogue Systems
-  [badge:NaMuDDiS](https://ufal.mff.cuni.cz/grants/namuddis)
+  [badge:PapersWithCode](https://paperswithcode.com/task/task-oriented-dialogue-systems)
 
   Interactive text-based or speech-based systems that help fulfill tasks (e.g. booking tickets, searching for bus connections, restaurant recommendation). Works on this can include:
   - End-to-end neural systems (see e.g. [this shared task challenge](http://arxiv.org/abs/1807.11125) or [this dataset](https://www.aclweb.org/anthology/D18-1547))
   - Dialogue system components: Language understanding, dialogue management
 
-- Chatbots
+- Open-domain Dialogue
+  [badge:PapersWithCode](https://paperswithcode.com/task/dialogue-generation)
 
-  Chatbots are interactive systems that can converse about any topic and keep the user entertained. Works on this topic include:
-  - Neural generative chatbot models
-  - [Information-retrieval-based models
+  Chat about anything with Large Language Models
 
 - Automatic Speech Recognition
   [badge:UWebASR](https://lindat.mff.cuni.cz/services/uwebasr/)
   [badge:PapersWithCode](https://paperswithcode.com/task/automatic-speech-recognition)
 
 - Text to Speech
+  [badge:PapersWithCode](https://paperswithcode.com/task/text-to-speech-synthesis)
 
-- Language Generation
+### Language modeling [badge:PapersWithCode](https://paperswithcode.com/task/language-modelling)
+
+- Multilinguality
+
+- Intepretability
+
+- Efficiency
+
+  The approaches to efficiency include:
+  - Parameter-efficient fine-tuning ([PEFT](https://github.com/huggingface/peft), [LoRA](https://github.com/microsoft/LoRA), and many others)
+  - Quantization
+  - Knowledge distillation
+
+### Natural Language Generation [badge:PapersWithCode](https://paperswithcode.com/task/text-generation)
+
+- Czech poetry generation
+  [badge:EduPo](https://ufal.mff.cuni.cz/grants/edupo)
+
+- Data-to-text generation
+  [badge:PapersWithCode](https://paperswithcode.com/task/data-to-text-generation)
+  [badge:NG-NLG](https://ufal.mff.cuni.cz/grants/ng-nlg)
 
   This can include response generation for dialogue systems as well as data-to-text generation (weather reports, [sports reports](https://aclweb.org/anthology/D17-1239) etc.) or [surface realization](http://taln.upf.edu/pages/msr2019-ws/SRST.html) (generating text from semantic/syntactic trees).
 
